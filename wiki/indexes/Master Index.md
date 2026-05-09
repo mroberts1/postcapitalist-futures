@@ -37,6 +37,7 @@ Central directory for all topics, concepts, and sources in the Spatial Intellige
 - [[3D as Code]] — World Labs essay on 3D as spatial programming interface
 - [[From Words to Worlds]] — Fei-Fei Li on spatial intelligence as AI's frontier
 - [[Streaming 3DGS Worlds on the Web]] — Technical deep dive into Spark 2.0 Level-of-Detail and streaming for massive 3D worlds
+- [[Marble - A Multimodal World Model]] — Product article showcasing multimodal generation, editing, Chisel, expansion, and export
 
 ### To Ingest
 - [Marble](https://www.worldlabs.ai/blog/marble-world-model) — World Labs' multimodal world model
@@ -64,7 +65,7 @@ See [[wiki/log]] for chronological record of ingests, queries, and updates.
 | Metric | Count |
 |--------|-------|
 | Concepts | 6 |
-| Sources | 3 |
-| Ingested Articles | 3 |
+| Sources | 4 |
+| Ingested Articles | 4 |
 
 *Last updated: 2026-05-08*

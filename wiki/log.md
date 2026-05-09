@@ -50,7 +50,35 @@ Chronological record of ingests, queries, compilations, and maintenance operatio
 - Spark renders Marble-generated worlds
 - Enables interactive 3D experiences at scale
 
-**Status**: Core spatial AI stack visible. Ready for:
-- Additional source ingestion (Marble architecture, RTFM rendering, physics integration)
-- Deep dives into specific technical papers
-- Application domain exploration (robotics, scientific discovery, creative tools)
+## [2026-05-08] ingest | Marble — A Multimodal World Model
+
+**Source Article**:
+- [[Marble - A Multimodal World Model]] (World Labs) — Product showcase of multimodal world generation
+
+**Key Capabilities Documented**:
+1. **Multimodal inputs**: Text, image, multi-image, video, coarse 3D layouts
+2. **Editing**: AI-native local/structural edits, style swaps
+3. **Chisel**: Structure-style decoupling; control layout, parameterize appearance
+4. **Scaling**: World expansion (larger traversable areas), composition (combine worlds)
+5. **Export**: Splats (Spark), collider/visual meshes, video
+
+**Addresses Evaluation Questions**:
+- Q2 (three pillars): Generative ✓, multimodal ✓, interactive ✓ (editing/expansion)
+- Q5 (multimodal inputs): Text, image, video, 3D all shown; no failure modes discussed
+- Q7 (applications): Creative (film, game design), robotics simulations mentioned
+
+**Architectural Synthesis**:
+- Marble generates [[3D Representations]] (splats + meshes)
+- Uses [[Neural Graphics]] (synthesis from diverse modalities)
+- Outputs to [[3D Gaussian Splatting]] for Spark rendering
+- Completes the pipeline: Marble (generation) → Spark (rendering) → applications
+
+**Gaps Identified**:
+- Physics integration: No discussion of physics-aware generation
+- Interactivity: Acknowledged as future work (agents interact with worlds)
+- Failure modes: Article shows successful cases; no error analysis
+
+**Status**: Multimodal pipeline established (generation + rendering + export). Ready for:
+- Physics integration sources (sim-to-real, physics + learning)
+- Robotics applications (embodied AI training)
+- Failure mode analysis (where multimodal reasoning breaks down)
