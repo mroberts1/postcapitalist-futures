@@ -1,0 +1,16 @@
+   
+
+![](Books/Ghosts%20of%20My%20Life_%20Writings%20on%20Depression,%20-%20Mark%20Fisher/images/cover.jpg)
+
+   
+
+WHAT PEOPLE ARE SAYING ABOUT
+
+GHOSTS OF MY LIFEAfter the brilliance of Capitalist Realism, Ghosts Of My Life confirms Mark Fisher’s role as our greatest and most trusted navigator of these times out of joint, through all their frissons and ruptures, among all their apparitions and spectres, past, present and future.David Peace, author of the Red Riding Quartet and Red or DeadMark Fisher reads the contemporary world like no other analyst of its miseries and madness and mores. He is driven by anger but, miraculously, he never forgets to celebrate, when that reaction is apposite. I find his work exhilarating, fascinating, deeply engaging and, not least, utterly vital; this world we have made for ourselves would be a lesser place without it.Niall Griffiths, author of SheepshaggerGhosts Of My Life confirms that Mark Fisher is our most penetrating explorer of the connections between pop culture, politics, and personal life under the affective regime of digital capitalism. The most admirable qualities of Fisher’s work are its lucidity, reflecting the urgency of his commitment to communicating ideas; his high expectations of popular art’s power to challenge, enlighten, and heal; and his adamant refusal to settle for less.Simon Reynolds, author of Retromania and Rip It Up and Start AgainA must read for modernists, and for anyone who misses the future. This is the first book to really make sense of the fog of ideas that have been tagged as “hauntology”. Ghosts Of My Life is enjoyable, progressive and exciting.Bob Stanley, author of Yeah Yeah Yeah: The Story of Modern Pop and member of Saint Etienne
+
+Praise for Capitalist Realism
+
+‘Let’s not beat around the bush: Fisher’s compulsively readable book is simply the best diagnosis of our predicament that we have! Through examples from daily life and popular culture, but without sacrificing theoretical stringency, he provides a ruthless portrait of our ideological misery. Although the book is written from a radically Left perspective, Fisher offers no easy solutions. Capitalist Realism is a sobering call for patient theoretical and political work. It enables us to breathe freely in our sticky atmosphere.’Slavoj Žižek‘What happened to our future? Mark Fisher is a master cultural diagnostician, and in Capitalist Realism he surveys the symptoms of our current cultural malaise. We live in a world in which we have been told, again and again, that There Is No Alternative. The harsh demands of the ‘just-in-time’ marketplace have drained us of all hope and all belief. Living in an endless Eternal Now, we no longer seem able to imagine a future that might be different from the present. This book offers a brilliant analysis of the pervasive cynicism in which we seem to be mired, and even holds out the prospect of an antidote.’Steven Shaviro‘Finally, an analysis of contemporary capitalism that combines rigorous cultural analysis with unflinching political critique. Illustrating the deleterious effects of “business ontology” on education and “market Stalinism” in public life, Fisher lays bare the new cultural logic of capital. A provocative and necessary read, especially for anyone wanting to talk seriously about the politics of education today.’
+
+Sarah Amsler
+

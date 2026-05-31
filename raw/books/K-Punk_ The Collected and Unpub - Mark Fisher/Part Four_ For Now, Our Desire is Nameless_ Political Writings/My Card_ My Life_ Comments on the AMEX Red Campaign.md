@@ -1,0 +1,23 @@
+   
+
+my card: my life: comments on the amex red campaign[[null|]][^1]
+
+The current American Express Red advertising campaign[[null|]][^2] cries out for the kind of intricate semiotic dissection Roland Barthes pioneered in _Mythologies_. The ad — which shows happy, smiling supermodel Gisele embracing happy, smiling African Maasai warrior, Keseme — is a succinct emblem of the current ruling ideology.
+
+The image, with its evocation of ideas of culture and nature, consumerism and debt, independence and dependence — fairly drips with polysemic resonances. There is enough here to keep semiologists busy for years.
+
+But the central opposition — “My Card” versus “My Life” — says more than it intends. The First World is metonymically represented by a plastic card, and it is left to the Third World to symbolise all the “natural” vitality that unliving capital has eliminated from Western culture. The Western woman equals (artificial, cosmetic) culture; the African man equals living nature. Indeed, when we click on the “My Life” button we see the stereotypicallydescribed “proud and fiercely independent \[…\] Maasai tribes of East Kenya” suborned into the role of embodying “the dignity, courage and breathtaking beauty of Africa”, their culture quickly flattened back into nature.
+
+Slavoj Žižek has argued that what he calls “liberal communism” — as exemplified by the charitable gifts made by super-succesful capitalists such as Bill Gates and George Soros — is now the dominant form of capitalist ideology. “According to liberal communist ethics”, Žižek argues,
+
+the ruthless pursuit of profit is counteracted by charity: charity is part of the game, a humanitarian mask hiding the underlying economic exploitation. Developed countries are constantly “helping” undeveloped ones (with aid, credits, etc.), and so avoiding the key issue: their complicity in and responsibility for the miserable situation of the Third World.[[null|]][^3]
+
+This is the real meaning of the embrace between Giselle and Keseme — under global capitalism, the relationship between First and Third Worlds can never be a symmetrical synergy in which both partners win. It will always be a system of structural inequality in which one side is always destined to lose.
+
+But Product Red marks a move on from Žižek’s liberal communism. Liberal communism is really just old-style philanthropy, in which exploitation is atoned for by subsequent acts of charity. With Red, by contrast, the act of consumption is presented to us as already and immediately benevolent. At the Product Red launch in January, Bono,[[null|]][^4] Red’s most high-profile advocate, made a point of differentiating the new approach from philanthropy. “Philanthropy is like hippy music, holding hands”, Bono claimed. “Red is more like punk rock, hip-hop, this should feel like hard commerce.” (It is unclear what inspired Bono’s invocation of punk rock — perhaps he was thinking of _The Great Rock ‘n’ Roll Swindle_ — but his reference to hip-hop might be the most savage indictment of the genre yet.)
+
+We confront here the curious mixture of brutal cynicism and dewy-eyed piety that is so characteristic of late-capitalist culture. The billboard version of the American Express ad tells us that “This card is designed to eliminate Aids in Africa”. Even when we dismiss this as obvious nonsense — the most credulous consumer cannot but be aware that the card was designed to increase the profits of American Express — the ideological blackmail still holds: how can anything which assists in the struggle against Aids in Africa possibly be wrong?
+
+We’ve already touched upon one reason: campaigns such as this occlude and mystify the systemic character of the relationship between Western capital and the Third World. The picturesque image of a “traditional” Maasai warrior beguiles us into forgetting the way in which Western institutions profit from Third World debt. It also photoshops out capital’s attempt, in Žižek’s words, to “export the (necessary) dark side of production — disciplined, hierarchical labour, ecological pollution — to ‘non-smart’ Third World locations”.
+
+Another, related, reason is that Product Red promises to eliminates politics as such. If the invisible hand of the credit card user can ameliorate the problem of Aids in Africa, there is no need for a political response at all — what John Hayes of American Express calls “conscientious commerce” will be sufficient. In this way, Product Red goes beyond using a Masaai tribesman to advertise American Express, and uses him to sell neoliberal ideology itself.

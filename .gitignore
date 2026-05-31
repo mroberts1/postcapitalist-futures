@@ -1,8 +1,8 @@
 .obsidian/
 .smart-env/
 .chum-cache/
-.claude/
-.DS_Store
-*.swp
-*.swo
-*~
+quartz/node_modules/
+quartz/public/
+quartz/.quartz-cache/
+quartz/
+Makefile

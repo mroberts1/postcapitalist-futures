@@ -1,84 +1,64 @@
+# Wiki Log
+
+Chronological record of ingests, queries, and maintenance passes.
+
 ---
-title: Knowledge Base Log
-tags: #log
-created: 2026-05-08
-updated: 2026-05-08
----
 
-# Knowledge Base Log
+## [2026-05-31] ingest | Accelerationism: how a fringe philosophy predicted the future we live in — Andy Beckett
 
-Chronological record of ingests, queries, compilations, and maintenance operations on the Spatial Intelligence knowledge base.
+Source: https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in
 
-## [2026-05-08] ingest | 3D as Code + From Words to Worlds
+Created:
+- `wiki/sources/Accelerationism - Beckett.md` — Guardian longread (2017); CCRU history, Fisher biography, L/ACC vs R/ACC
 
-**Source Articles**:
-- [[3D as Code]] (World Labs) — 3D representations as spatial programming interface
-- [[From Words to Worlds]] (Fei-Fei Li) — Spatial intelligence as AI's next frontier
+Updated:
+- `wiki/concepts/Accelerationism.md` — added CCRU History section (Zelazny origin, French roots, Warwick/CCRU founding and collapse)
+- `wiki/indexes/Master Index.md` — added new source
 
-**Concepts Created**:
-- [[Spatial Intelligence]] — Foundational human and machine capability
-- [[World Models]] — Three-pillar architecture (generative, multimodal, interactive)
-- [[3D Representations]] — Structured interfaces for spatial reasoning
-- [[Neural Graphics]] — Machine learning for 3D generation and rendering
-- [[Embodied AI]] — Intelligence grounded through world interaction
+## [2026-05-31] ingest | Postcapitalist Desire syllabus — Mark Fisher
 
-**Key Takeaways**:
-1. **3D as the interface**: Just as code mediates human-machine software collaboration, 3D representations enable human-machine spatial collaboration
-2. **World models as the frontier**: AI's next major advance requires generative models with spatial consistency, multimodal inputs, and interactive simulation
-3. **Applications span domains**: Creativity (film, design), robotics, scientific discovery, healthcare, education
-4. **Technical stack**: 3D representations (code) + neural graphics (language) + simulation engines (chips)
-5. **Embodied learning**: Robots require spatial intelligence; world models enable sim-to-real training at scale
+Source: https://mroberts1.github.io/postcapitalist-desire/ (fetched via WebFetch from GitHub repo mroberts1/postcapitalist-desire)
 
-## [2026-05-08] ingest | Streaming 3DGS Worlds on the Web
+Created:
+- `wiki/sources/Postcapitalist Desire - Mark Fisher.md` — combined entry with full 15-lecture syllabus embedded
+- `wiki/concepts/Accelerationism.md` — L/ACC vs R/ACC; CCRU/Land; Fisher's position
+- `wiki/concepts/Xenofeminism.md` — Laboria Cuboniks; Hester; lineage from Firestone/Plant
 
-**Source Article**:
-- [[Streaming 3DGS Worlds on the Web]] (World Labs / Spark team) — Technical deep dive into scaling 3DGS rendering
+Updated:
+- `wiki/concepts/Acid Communism.md` — linked to Accelerationism, Xenofeminism, and Postcapitalist Desire course
+- `wiki/indexes/Master Index.md` — added new source and concepts
 
-**Concepts Created/Updated**:
-- [[3D Gaussian Splatting]] (new) — Rendering via ellipsoids; practical neural graphics implementation
-- [[Neural Graphics]] (reference) — 3DGS as practical realization
+## [2026-05-31] ingest | Capitalist Realism, Ghosts of My Life, K-Punk, Acid Communism — Mark Fisher
 
-**Key Insights**:
-1. **3DGS as neural graphics substrate**: Natural output for NeRF/diffusion models; efficient real-time rendering
-2. **Level-of-Detail splat tree**: Continuous LoD enabling adaptive detail based on viewpoint; runs in O(budget) time
-3. **Progressive streaming**: .RAD format enables coarse-to-fine loading; spatial chunking prioritizes visible regions
-4. **Virtual memory for splats**: GPU page table manages unlimited worlds with fixed GPU memory
-5. **Production-ready scaling**: 40M+ splat worlds streaming to mobile/VR/desktop via Spark 2.0
+Sources: `raw/books/Capitalist Realism_*/`, `raw/books/Ghosts of My Life_*/`, `raw/books/K-Punk_*/`
 
-**Architectural Coherence**:
-- 3D Representations (code) ← [[3D Gaussian Splatting]] (language) → [[World Models]] (generation)
-- Spark renders Marble-generated worlds
-- Enables interactive 3D experiences at scale
+Created:
+- `wiki/sources/Capitalist Realism - Mark Fisher.md`
+- `wiki/sources/Ghosts of My Life - Mark Fisher.md`
+- `wiki/sources/K-Punk - Mark Fisher.md`
+- `wiki/sources/Acid Communism - Mark Fisher.md`
+- `wiki/concepts/Capitalist Realism.md`
+- `wiki/concepts/Lost Futures.md`
+- `wiki/concepts/Acid Communism.md`
 
-## [2026-05-08] ingest | Marble — A Multimodal World Model
+Updated:
+- `wiki/concepts/Hauntology.md` — expanded with Ghosts of My Life material; connected to Lost Futures and Acid Communism
+- `wiki/indexes/Master Index.md` — added all new sources and concepts
 
-**Source Article**:
-- [[Marble - A Multimodal World Model]] (World Labs) — Product showcase of multimodal world generation
+K-Punk treated as single overview entry + Acid Communism as separate source. Tags drive cross-topic searchability; individual blog posts surface through concept article citations.
 
-**Key Capabilities Documented**:
-1. **Multimodal inputs**: Text, image, multi-image, video, coarse 3D layouts
-2. **Editing**: AI-native local/structural edits, style swaps
-3. **Chisel**: Structure-style decoupling; control layout, parameterize appearance
-4. **Scaling**: World expansion (larger traversable areas), composition (combine worlds)
-5. **Export**: Splats (Spark), collider/visual meshes, video
+Also set up Quartz 4 static site generator (`quartz/`); site builds from `wiki/` via symlink. Serve with `make serve` from vault root.
 
-**Addresses Evaluation Questions**:
-- Q2 (three pillars): Generative ✓, multimodal ✓, interactive ✓ (editing/expansion)
-- Q5 (multimodal inputs): Text, image, video, 3D all shown; no failure modes discussed
-- Q7 (applications): Creative (film, game design), robotics simulations mentioned
+## [2026-05-30] ingest | The Weird and the Eerie — Mark Fisher
 
-**Architectural Synthesis**:
-- Marble generates [[3D Representations]] (splats + meshes)
-- Uses [[Neural Graphics]] (synthesis from diverse modalities)
-- Outputs to [[3D Gaussian Splatting]] for Spark rendering
-- Completes the pipeline: Marble (generation) → Spark (rendering) → applications
+Source: `raw/books/The Weird and the Eerie - Mark Fisher/` (full book, markdown)
 
-**Gaps Identified**:
-- Physics integration: No discussion of physics-aware generation
-- Interactivity: Acknowledged as future work (agents interact with worlds)
-- Failure modes: Article shows successful cases; no error analysis
+Created:
+- `wiki/sources/The Weird and the Eerie - Mark Fisher.md`
+- `wiki/concepts/The Eerie.md` (priority — comprehensive)
+- `wiki/concepts/The Weird.md`
+- `wiki/concepts/Hauntology.md`
+- `wiki/indexes/Hauntology.md` (topic index)
+- `wiki/indexes/Master Index.md`
 
-**Status**: Multimodal pipeline established (generation + rendering + export). Ready for:
-- Physics integration sources (sim-to-real, physics + learning)
-- Robotics applications (embodied AI training)
-- Failure mode analysis (where multimodal reasoning breaks down)
+Tag: `#hauntology`. User requested emphasis on the eerie sections of the book.

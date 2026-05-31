@@ -1,0 +1,77 @@
+   
+
+how to kill a zombie: strategising the end of neoliberalism[[null|]][^1]
+
+Why has the left made so little progress five years after a major crisis of capitalism discredited neoliberalism? Since 2008, neoliberalism might have been deprived of the feverish forward momentum it once possessed, but it is nowhere near collapsing. Neoliberalism now shambles on as zombie — but as the afficionados of zombie films are well aware, it is sometimes harder to kill a zombie than a living person.
+
+At the conference in York, Milton Friedman’s notorious remark was quoted a number of times:
+
+Only a crisis — actual or perceived — produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.
+
+The problem is that although the 2008 crisis was caused by neoliberal policies, those selfsame policies remain practically the only ones “lying around”. As a consequence, neoliberalism is still politically inevitable.
+
+It is by no means clear that the public has ever embraced neoliberal doctrines with much enthusiasm — but what people have been persuaded of is the idea that there is no alternative to neoliberalism. The (typically reluctant) acceptance of this state of affairs is the hallmark of capitalist realism. Neoliberalism may not have succeeded in making itself more attractive than other systems, but it has sold itself as the only “realistic” mode of governance. The sense of “realism” here is a hard won political achievement, and neoliberalism has succeeded in imposing a model of reality modeled on practices and assumptions coming out of the business world.
+
+Neoliberalism consolidated the discrediting of state socialism, establishing a vision of history in which it laid claim to the future and consigned the left to obsolescence. It captured the discontent with centralised bureacratic leftism, successfully absorbing and metabolising the desires for freedom and autonomy that had emerged in the wake of the Sixties. But — and this is a crucial point — this isn’t to say that those desires inevitably and necessarily led to the rise of neoliberalism. Rather, we can see the success of neoliberalism as a symptom of the leftist failure to adequately respond to these new desires. As Stuart Hall and others involved in the _New Times_ project of the 1980s prophetically insisted, this failure would prove catastrophic for the left.
+
+Capitalist realism can be described as the belief that there is no alternative to capitalism. However, it is more usually manifest not in grand claims about political economy, but in more banal behaviours and expectations, such as our weary acceptance that pay and conditions will stagnate or deteriorate.
+
+Capitalist realism has been sold us to by managers (many of whom see themselves as left-wing) who tell us that things are different now. The age of the organised working class is over; union power is receding; business now rules, and we must fall into line. The self-surveillance work that workers are now routinely required to perform — all those self-assessments, performance reviews, log books — is, we have been persuaded, a small price to pay for keeping our jobs.
+
+Take the Research Excellence Framework (REF) — a system for assessing the research output of academics in the UK. This massive system of bureaucratic monitoring is widely reviled by those subject to it, but any opposition to it has so far been token. This double situation — in which something is loathed but at the same time complied with — is typical of capitalist realism, and is particularly poignant in the case of academia, one of the supposed strongholds of the left.
+
+Capitalist realism is an expression of class decomposition, and a consequence of the disintegration of class consciousness. Fundamentally, neoliberalism must be seen as a project which aimed to achieve this end. It was not primarily — at least not in practice — dedicated to freeing up the market from state control. Rather, it was about subordinating the state to the power of capital. As David Harvey has tirelessly argued, neoliberalism was a project which aimed to reassert class power.
+
+As the traditional sources of working-class power were defeated or subdued, neoliberal doctrines functioned as weapons in a class war increasingly fought by one side only. Concepts like the “market” and “competition” have functioned not as the real ends of neoliberal policy, but as its guiding myths and ideological alibi. Capital has no interest in either the health of markets, or in competition. As Manuel DeLanda, following Fernand Braudel, has argued, capitalism, with its tendency towards monopoly and oligopoly, can more accurately be defined as anti-market rather than as a system which promotes thriving markets.
+
+David Blacker mordantly observes in his forthcoming book, _The Falling Rate of Learning and the Neoliberal Endgame_, that the virtues of “competition” are “conveniently to be reserved only for the masses. Competition and risk is for small businesses and other little people like private and public sector employees.” The invocation of competition has functioned as an ideological weapon — its real aim is the destruction of solidarity, and, as such, it has been remarkably successful.
+
+Competition in education (both amongst institutions and amongst individuals) is not something that spontaneously emerges once state regulation is removed — on the contrary, it is something actively produced by new kinds of state control. The REF and the school inspections regime overseen in the UK by OFSTED are both classic examples of this syndrome.
+
+Since there is no automatic way to “marketise” education and other public services and there is no straightforward way of quantifying the “productivity” of workers such as teachers, the imposition of business discipline has meant the installation of colossal bureaucratic machineries. So an ideology which promised to liberate us from state socialist bureaucracy has instead imposed a bureaucracy all of its own.
+
+This only looks like a paradox if we take neoliberalism at its word — but neoliberalism is not classic liberalism. It is not about laissez faire. As Jeremy Gilbert, developing Foucault’s prescient analyses of neoliberalism, has argued, the neoliberal project was always about vigilantly policing a certain model of individualism; workers have to be continually surveilled for fear they might lapse into collectivity.
+
+If we refuse to accept neoliberalism’s rationales — that control systems brought in from business were intended to improve workers’ efficiency — then it becomes clear that the anxiety produced by the REF and other managerialist mechanisms is not some accidental side-effect of these systems — it is their real aim.
+
+And if neoliberalism will not collapse of its own accord, what can be done to hasten its demise?
+
+**Reject Strategies That Don’t Work**
+
+In a dialogue between Franco “Bifo” Berardi and me published in _Frieze_,[[null|]][^2], Berardi talked of “our present theoretical impotence in the face of the dehumanising process provoked by finance capitalism.” “I can’t deny reality”, Berardi continued,
+
+which seems to me to be this: the last wave of the movement — say 2010 to 2011 — was an attempt to revitalise a massive subjectivity. This attempt failed: we have been unable to stop the financial aggression. The movement has now disappeared, only emerging in the form of fragmentary explosions of despair.
+
+Bifo, one of the activists involved with the so-called autonomist movement in Italy in the 1970s, here identifies the rhythm that has defined anti-capitalist struggle since 2008: exhilarating outbursts of militancy recede as quickly as they erupt, without producing any sustained change.
+
+I hear Bifo’s remarks as a requiem for the “horizontalist” strategies that have dominated anti-capitalism since the Nineties. The problem with these strategies is not their (noble) aims — the abolition of hierarchy, the rejection of authoritarianism — but their efficacy. Hierarchy cannot be abolished by fiat, and a movement which fetishises organisational form over effectiveness concedes ground to the enemy. The dismantling of the many existing forms of stratification will be a long, arduous and attritional process; it isn’t simply a matter of eschewing (official) leaders and adopting “horizontal” forms of organisation.
+
+Neo-anarchist horizontalism has tended to favour strategies of direct action and withdrawal — people need to take action now and for themselves, not wait for compromised elected representatives to act in their stead; at the same time, they should withdraw from institutions that are not contingently, but necessarily corrupt.
+
+The emphasis on direct action, though, conceals a despair about the possibility of _in_direct action. Yet it is via indirect action that the control of ideological narratives is achieved. Ideology isn’t about what you or I spontaneously believe, but about what we believe that the Other believes — and this belief is still determined to a large extent by the content of mainstream media.
+
+Neo-anarchist doctrine maintains that we should abandon mainstream media and parliament — but our abandoning it has only allowed the neoliberals to extend their power and influence. The neoliberal right might preach the end of the state, but only while ensuring that it controls governments.
+
+Only the horizontalist left believes the rhetoric about the obsolescence of the state. The danger of the neo-anarchist critique is that it essentialises the state, parliamentary democracy and “mainstream media” — but none of these things is forever fixed. They are mutable terrains to be struggled over, and the shape they now assume is itself the effect of previous struggles. It seems, as times, as if the horizontalists want to occupy everything except parliament and the mainstream media. But why not occupy the state and the media too? Neo-anarchism isn’t so much of a challenge to capitalist realism as it is one of its effects. Anarchist fatalism — according to which it is easier to imagine the end of capitalism than a left-wing Labour Party — is the complement of the capitalist realist insistence that there is no alternative to capitalism.
+
+None of this is to say that occupying mainstream media or politics will be enough in themselves. If New Labour taught us anything, it was that holding office is by no means the same thing as winning hegemony. Yet without a parliamentary strategy of some kind, movements will keep foundering and collapsing. The task is to make the links between the extra-parliamentary energies of the movements and the pragmatism of those within existing institutions.
+
+**Retrain Ourselves to Adopt a War Mentality**
+
+If you want to consider the most telling drawback of horizontalism, though, think about how it looks from the perspective of the enemy. Capital must be delighted by the popularity of horizontalist discourses in the anti-capitalist movement. Would you rather face a carefully co-ordinated enemy, or one that takes decisions via nine-hour “assemblies”?
+
+Which isn’t to say that we should fall back into the consoling fantasy that any kind of return to old-school Leninism is either possible or desirable. The fact that we have been left with a choice between Leninism and anarchism is a measure of current leftist impotence.
+
+It’s crucial to leave behind this sterile binary. The struggle against authoritarianism needn’t entail neo-anarchism, just as effective organisation doesn’t necessarily require a Leninist party. What is required, however, is taking seriously the fact that we are up against an enemy that has no doubt at all that it is in a class war, and which devotes many of its enormous resources training its people to fight it. There’s a reason that MBA students read _The Art of War_, and if we are to make progress we have to rediscover the desire to win and the confidence that we can.
+
+We must learn to overcome certain habits of anti-Stalinist thinking. The danger is not anymore, nor has it been for some time, excessive dogmatic fervor on our side. Instead, the post-68 left has tended to overvalue the negative capability of remaining in doubt, scepticism and uncertainties — this may be an aesthetic virtue, but it is a political vice. The self-doubt that has been endemic on the left since the Sixties is little in evidence on the right — one reason that the right has been so successful in imposing its programme. Many on the left now quail at the thought of formulating a programme, still less “imposing” one. But we have to give up on the belief that people will spontaneously turn to the left, or that neoliberalism will collapse without our actively dismantling it.
+
+**Rethink Solidarity**
+
+The old solidarity that neoliberalism decomposed has gone, never to return. But this does not mean that we are consigned to atomised individualism. Our challenge now is to reinvent solidarity. Alex Williams has come up with the suggestive formulation “post-Fordist plasticity” to describe what this new solidarity might look like. As Catherine Malabou has shown, plasticity is not the same as elasticity. Elasticity is equivalent to the flexibility which neoliberalism demands of us, in which we assume a form imposed from outside. But plasticity is something else: it implies both adaptability and resilience, a capacity for modification which also retains a “memory” of previous encounters.
+
+Rethinking solidarity in these terms may help us to give up some tired assumptions. This kind of solidarity doesn’t necessarily entail overarching unity or centralised control. But moving beyond unity needn’t lead us into the flatness of horizontalism, either. Instead of the rigidity of unity — the aspiration for which, ironically, has contributed to the left’s notorious sectarianism — what we need is the coordination of diverse groups, resources and desires. The right have been better postmodernists than us, building successful coalitions out of heterogeneous interest groups without the need for an overall unity. We must learn from them, to start to build a similar patchwork on our side. This is more a logistical problem than a philosophical one.
+
+In addition to the plasticity of organisational form, we need also to pay attention to the plasticity of desire. Freud said that the libidinal drives are “extraordinarily plastic”. If desire is not a fixed biological essence, then there is no natural desire for capitalism. Desire is always composed. Advertisers, branders and PR consultants have always known this, and the struggle against neoliberalism will require that we construct an alternative model of desire that can compete with the one pushed by capital’s libidinal technicians.
+
+What’s certain is that we are now in an ideological wasteland in which neoliberalism is dominant only by default. The terrain is up for grabs, and Friedman’s remark should be our inspiration: it is now _our_ task to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.

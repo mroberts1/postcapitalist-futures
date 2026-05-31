@@ -1,71 +1,63 @@
 ---
 title: Master Index
-tags: #index
-created: 2026-05-08
-updated: 2026-05-08
+tags:
+  - index
+created: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Master Index
 
-Central directory for all topics, concepts, and sources in the Spatial Intelligence knowledge base.
+Central directory for the Mark Fisher knowledge base.
 
-## Research Topics
+---
 
-- [[Spatial Intelligence]] — Core topic: perceiving, reasoning about, and interacting with physical and virtual worlds
+## Topic Indexes
+
+- [[indexes/Hauntology|Hauntology]] — the eerie, the weird, hauntological music and film, lost futures
+
+---
 
 ## Concepts
 
-### Core Concepts
-- [[Spatial Intelligence]] — Human and machine ability to understand and interact with space
-- [[World Models]] — Generative AI systems understanding, reasoning about, and generating worlds
-- [[Embodied AI]] — Intelligent systems grounded through interaction with environments
-- [[3D Representations]] — Structured encodings of spatial information
-- [[Neural Graphics]] — Machine learning approaches for generating and rendering 3D content
-- [[3D Gaussian Splatting]] — Efficient rendering via semi-transparent ellipsoids; practical neural graphics implementation
+### Core Fisher Concepts
+- [[concepts/Capitalist Realism|Capitalist Realism]] — capitalism as naturalized atmosphere; business ontology; TINA
+- [[concepts/Lost Futures|Lost Futures]] — the slow cancellation of the future; hauntology as temporal condition
+- [[concepts/Acid Communism|Acid Communism]] — the spectre of a world which could be free; Marcuse; counterculture
+- [[concepts/Hauntology|Hauntology]] — Derrida/Fisher; spectral presences; foreclosed futures; music
 
-### To Create
-- Simulation Systems
-- Multimodal Learning
-- Digital Twins
-- Robot Learning & Training
-- Generative Models
-- Vision & Perception
+### Aesthetic Concepts
+- [[concepts/The Eerie|The Eerie]] — failure of absence/presence; agency as central enigma
+- [[concepts/The Weird|The Weird]] — presence of that which does not belong; fascination
+
+### Adjacent Concepts
+- [[concepts/Accelerationism|Accelerationism]] — L/ACC vs R/ACC; Nick Land; CCRU; Fisher's position
+- [[concepts/Xenofeminism|Xenofeminism]] — technology as emancipatory tool; Laboria Cuboniks; anti-naturalism
+
+---
 
 ## Sources
 
+### Books
+- [[sources/Capitalist Realism - Mark Fisher|Capitalist Realism]] (Mark Fisher, 2009)
+- [[sources/Ghosts of My Life - Mark Fisher|Ghosts of My Life]] (Mark Fisher, 2014)
+- [[sources/The Weird and the Eerie - Mark Fisher|The Weird and the Eerie]] (Mark Fisher, 2016)
+- [[sources/K-Punk - Mark Fisher|K-Punk: The Collected Writings]] (Mark Fisher, 2018)
+
+### Essays
+- [[sources/Acid Communism - Mark Fisher|Acid Communism (Unfinished Introduction)]] (Mark Fisher, 2018)
+
+### Course Syllabi
+- [[sources/Postcapitalist Desire - Mark Fisher|Postcapitalist Desire: The Final Lectures]] (Mark Fisher, 2016–17 / Repeater 2020)
+
 ### Articles
-- [[3D as Code]] — World Labs essay on 3D as spatial programming interface
-- [[From Words to Worlds]] — Fei-Fei Li on spatial intelligence as AI's frontier
-- [[Streaming 3DGS Worlds on the Web]] — Technical deep dive into Spark 2.0 Level-of-Detail and streaming for massive 3D worlds
-- [[Marble - A Multimodal World Model]] — Product article showcasing multimodal generation, editing, Chisel, expansion, and export
+- [[sources/Accelerationism - Beckett|"Accelerationism: how a fringe philosophy predicted the future we live in"]] (Andy Beckett, *The Guardian*, 2017)
 
-### To Ingest
-- [Marble](https://www.worldlabs.ai/blog/marble-world-model) — World Labs' multimodal world model
-- [RTFM & Spark](https://www.worldlabs.ai/blog/rtfm) — Real-time rendering and neural graphics
-- World Labs research papers and blog posts
-- Fei-Fei Li's Stanford lab publications
-- NeRF and Gaussian splatting papers
-- Robotics research at Stanford and other institutions
+---
 
-## Applications
+## Stats
 
-### By Domain
-- **Creativity**: Filmmaking, game design, architecture, storytelling
-- **Robotics**: Robot training, manipulation, navigation, human collaboration
-- **Science**: Molecular simulation, climate modeling, materials discovery
-- **Healthcare**: Drug discovery, diagnostics, surgical simulation, ambient monitoring
-- **Education**: Immersive learning, complex concept visualization, skill training
-
-## Timeline
-
-See [[wiki/log]] for chronological record of ingests, queries, and updates.
-
-## Statistics
-
-| Metric | Count |
-|--------|-------|
-| Concepts | 6 |
-| Sources | 4 |
-| Ingested Articles | 4 |
-
-*Last updated: 2026-05-08*
+- Concepts: 8
+- Sources: 7
+- Topic indexes: 1
+- Last updated: 2026-05-31
