@@ -41,17 +41,6 @@ Fisher is careful to distinguish this from the standard complaint that things we
 
 ---
 
-## Hauntology as Cultural Form
-
-[[Hauntology]] is the cultural form of the lost future. Hauntological art does not simply look back with nostalgia; it holds open the wounds of cancelled futures, refusing both the consolations of nostalgia and the false novelty of capitalist cultural churn.
-
-The hauntological works Fisher identifies — Burial's degraded post-rave spectres, The Caretaker's ballroom music consumed by static, Ghost Box Records' phantom BBC modernism — are marked by:
-- **Temporal dislocation**: they sound like they come from a time that never quite existed
-- **Mourning without resolution**: grief for futures that never arrived, not for pasts that were lost
-- **The trace**: a recording quality that emphasizes loss, degradation, incompleteness — the past as partial signal rather than recovered whole
-
----
-
 ## The Figure of Sapphire and Steel
 
 Fisher's controlling image for the lost future: the final episode of *Sapphire and Steel* (ITV, 1982), in which the two protagonists are trapped forever in a café floating in deep space. Time has stopped. The café is "a pocket, a vacuum" where "there is no time here, not any more." Their situation is described as the trap that is "nowhere, and it's forever."
@@ -72,7 +61,6 @@ The lost future is not merely a cultural or aesthetic problem. It is the experie
 
 ## Connections
 
-- [[Hauntology]] — the cultural form of the lost future
 - [[Capitalist Realism]] — the political-economic condition that produces the lost future
 - [[Acid Communism]] — the political project of recovering suppressed futures
 - [[Folk Politics]] — folk politics' nostalgia (return to Keynesianism, craft production) as symptomatic expression of the lost future

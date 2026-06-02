@@ -56,7 +56,7 @@ Hyperstitions are not simply propaganda or lies. Three features distinguish them
 
 ## Relation to Fisher
 
-Mark Fisher at the CCRU was involved in the original theorisation of hyperstition. His [[Lost Futures]] analysis could be read as a diagnosis of a *failed* hyperstition: the future-oriented fictions of the postwar left (social democracy, communism, counterculture) were operative hyperstitions that built real social forces — until neoliberalism's counter-hyperstitions displaced them, and [[Hauntology]] became the culture of living in their aftermath.
+Mark Fisher at the CCRU was involved in the original theorisation of hyperstition. His [[Lost Futures]] analysis could be read as a diagnosis of a *failed* hyperstition: the future-oriented fictions of the postwar left (social democracy, communism, counterculture) were operative hyperstitions that built real social forces — until neoliberalism's counter-hyperstitions displaced them, and living in their aftermath became the condition that [[Lost Futures]] names.
 
 [[Acid Communism]] can be read as Fisher's attempt at a new left hyperstition: the "spectre of a world which could be free," made present enough in cultural memory to become politically operative again.
 

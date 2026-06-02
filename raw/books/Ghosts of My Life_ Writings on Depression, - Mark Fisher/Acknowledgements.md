@@ -1,5 +1,0 @@
-   
-
-# Acknowledgements
-
-Many of the ideas in Ghosts Of My Life were first auditioned on my blog, k-punk. I’m grateful to the k-punk readers who responded to the ideas there and helped them to propagate. I’m also grateful to the publishers who kindly allowed me to reprint material in Ghosts, in particular Rob Winter at Sight & Sound and Tony Herrington at The Wire. Some of the pieces that originally appeared elsewhere have been altered for inclusion here. Needless to say, all responsibility for the edits in Ghosts lies with me.If I were to list everyone who inspired or supported the writing of Ghosts Of My Life, the book would never get started, so I will concentrate only on those who worked closely on the manuscript. Thanks, therefore, to Tariq Goddard for his patience, Liam Sprod and Alex Niven for their attentive copy-editing and proofreading, Laura Oldfield Ford for allowing me to use her drawings to illustrate the text, Chris Heppell for the cover photograph, and Rob White for his customarily insightful and incisive comments.

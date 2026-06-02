@@ -1,6 +1,9 @@
 .obsidian/
 .smart-env/
 .chum-cache/
+raw/books/
+raw/articles/
+raw/papers/
 quartz/node_modules/
 quartz/public/
 quartz/.quartz-cache/

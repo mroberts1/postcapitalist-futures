@@ -83,7 +83,6 @@ The 2008 credit crisis represented, for Fisher, a moment when capitalist realism
 
 ## Connections
 
-- [[Hauntology]] — the cultural dimension: capitalist realism forecloses futures
 - [[Lost Futures]] — the temporal experience of capitalist realism
 - [[Acid Communism]] — Fisher's late attempt to name what capitalist realism must suppress
 - [[Capitalist Realism - Mark Fisher]] — primary source text (2009)

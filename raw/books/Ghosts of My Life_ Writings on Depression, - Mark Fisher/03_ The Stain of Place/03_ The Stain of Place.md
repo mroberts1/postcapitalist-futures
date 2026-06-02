@@ -1,4 +1,0 @@
-   
-
-# 03: THE STAIN OF PLACE
-

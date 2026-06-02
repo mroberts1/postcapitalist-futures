@@ -1,5 +1,0 @@
-   
-
-PART SEVEN
-
-ACID COMMUNISM

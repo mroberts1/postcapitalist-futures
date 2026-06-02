@@ -78,7 +78,7 @@ Acid communism is the constructive answer to a question *Capitalist Realism* pos
 | Concept | Orientation | Function |
 |---|---|---|
 | Capitalist Realism | Diagnostic | Names the condition |
-| Hauntology / Lost Futures | Elegiac | Mourns what was cancelled |
+| Lost Futures | Elegiac | Mourns what was cancelled |
 | Acid Communism | Constructive | Recovers what can be unforgotten |
 
 ---
@@ -141,7 +141,6 @@ Fisher's final Goldsmiths course, the closest thing to a complete map of the aci
 
 - [[Capitalist Realism]] — the condition acid communism would overcome
 - [[Lost Futures]] — the cultural experience whose political content acid communism names
-- [[Hauntology]] — acid communism as the political correlate of hauntological mourning
 - [[Accelerationism]] — adjacent trajectory; Fisher's position distinguishes acid communism from both right and left accelerationism
 - [[Xenofeminism]] — a contemporary heir to the acid communist project
 - [[Acid Communism - Mark Fisher]] — primary source text (unfinished introduction)

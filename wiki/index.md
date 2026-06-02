@@ -5,19 +5,20 @@ tags: []
 
 *a wiki for mark fisher*
 
-A knowledge base on the work of Mark Fisher (1968–2017) — cultural theorist, blogger, and author of *Capitalist Realism*, *Ghosts of My Life*, *The Weird and the Eerie*, and the unfinished *Acid Communism*.
+A knowledge base on the work of Mark Fisher (1968–2017) — cultural theorist, blogger, and author of *Capitalist Realism*, *Ghosts of My Life*, and the unfinished *Acid Communism*.
 
 ## Browse
 
 - [[indexes/Index|Index]] — central directory of all concepts and sources
-- [[indexes/Hauntology|Hauntology Index]] — hauntology, the eerie, the weird, lost futures
+- [[indexes/Post-Work|Post-Work Index]] — automation, UBI, folk politics, left accelerationism
 
 ## Concepts
 
-- [[concepts/Hauntology|Hauntology]]
-- [[concepts/The Eerie|The Eerie]]
-- [[concepts/The Weird|The Weird]]
+- [[concepts/Capitalist Realism|Capitalist Realism]]
+- [[concepts/Lost Futures|Lost Futures]]
+- [[concepts/Acid Communism|Acid Communism]]
 
 ## Sources
 
-- [[sources/The Weird and the Eerie - Mark Fisher|The Weird and the Eerie]] (2016)
+- [[sources/Capitalist Realism - Mark Fisher|Capitalist Realism]] (2009)
+- [[sources/Ghosts of My Life - Mark Fisher|Ghosts of My Life]] (2014)
