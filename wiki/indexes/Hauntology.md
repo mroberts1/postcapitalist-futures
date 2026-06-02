@@ -15,16 +15,31 @@ Research into hauntology and related aesthetic modes: the eerie, the weird, Fish
 
 ## Core Concepts
 
-- [[Hauntology]] — Derrida/Fisher; the spectral condition; foreclosed futures
-- [[The Eerie]] — Fisher's primary concept; failure of absence/presence; the problem of agency
-- [[The Weird]] — Fisher's companion concept; presence of that which does not belong; fascination
+```dataview
+LIST
+FROM "wiki/concepts"
+WHERE contains(tags, "hauntology") OR contains(tags, "weird-eerie") OR contains(tags, "lost-futures")
+SORT file.name ASC
+```
+
+### Manual list (published site)
+- [[concepts/Hauntology|Hauntology]] — Derrida/Fisher; the spectral condition; foreclosed futures
+- [[concepts/The Eerie|The Eerie]] — Fisher's primary concept; failure of absence/presence; the problem of agency
+- [[concepts/The Weird|The Weird]] — Fisher's companion concept; presence of that which does not belong; fascination
 
 ---
 
 ## Sources
 
-### Books
-- [[The Weird and the Eerie - Mark Fisher]] (2016) — primary theoretical text
+```dataview
+TABLE source_type AS "Type", date AS "Date"
+FROM "wiki/sources"
+WHERE contains(tags, "hauntology") OR contains(tags, "weird-eerie")
+SORT date DESC
+```
+
+### Manual list (published site)
+- [[sources/The Weird and the Eerie - Mark Fisher|The Weird and the Eerie]] (2016) — primary theoretical text
 
 ---
 

@@ -9,7 +9,7 @@ A knowledge base on the work of Mark Fisher (1968–2017) — cultural theorist,
 
 ## Browse
 
-- [[indexes/Master Index|Master Index]] — central directory of all concepts and sources
+- [[indexes/Index|Index]] — central directory of all concepts and sources
 - [[indexes/Hauntology|Hauntology Index]] — hauntology, the eerie, the weird, lost futures
 
 ## Concepts

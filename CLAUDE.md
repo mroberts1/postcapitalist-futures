@@ -1,6 +1,6 @@
 # LLM Knowledge Base — Operating Instructions
 
-This Obsidian vault is an LLM-managed knowledge base about the work of the English cultural theorist Mark Fisher following the Karpathy pattern.
+This Obsidian vault is an LLM-managed knowledge base following the Karpathy pattern, providing a space for new imaginaries of a post-capitalist future.
 The LLM writes and maintains all wiki content. The human rarely edits directly.
 
 ## Directory Structure
@@ -40,11 +40,11 @@ After ingesting, update the wiki:
 - Create new concept articles in `wiki/concepts/` for newly discovered topics
 - Update existing concept articles with new information and source backlinks
 - Update index files in `wiki/indexes/`
-- Maintain `wiki/indexes/Master Index.md` as the central directory
+- Maintain `wiki/indexes/Index.md` as the central directory
 
 ### 3. Q&A (query → output)
 When answering questions against the KB:
-- First consult `wiki/indexes/Master Index.md` to find relevant articles
+- First consult `wiki/indexes/Index.md` to find relevant articles
 - Read relevant concept articles and source summaries
 - Generate output as markdown files in `output/` when appropriate
 - **File good answers back into the wiki as new pages** — comparisons, analyses, and connections discovered through Q&A are valuable and should compound in the KB, not disappear into chat history
@@ -79,7 +79,8 @@ Multiple research topics coexist in a single flat wiki. Topics are distinguished
 
 - Every concept and source gets one or more topic tags in frontmatter (e.g. `#transformer`, `#climate-policy`)
 - Create a **topic index page** in `wiki/indexes/` for each research area (e.g. `wiki/indexes/Transformers.md`) that collects all relevant concepts and sources for that topic
-- The Master Index links to all topic index pages
+- The Index links to all topic index pages
+- **Naming**: The central index file is always `wiki/indexes/Index.md` (not "Master Index" or any other name). Apply this in all wikis.
 - When ingesting, ask the user which topic(s) a source belongs to if it's not obvious
 - During lint, check for sources/concepts that may be missing topic tags
 
@@ -102,3 +103,41 @@ When the user says:
 - **"report on [topic]"** — Generate a research report in output/
 - **"slides on [topic]"** — Generate a Marp slide deck in output/slides/
 - **"status"** — Show KB statistics (article count, word count, recent changes)
+
+## Publishing
+
+The wiki is published to GitHub Pages via Quartz v4. The Quartz framework is not committed to the repo — it is cloned at CI build time. Only `quartz.config.ts` and `quartz.layout.ts` live at the vault root. The GitHub Actions workflow (`.github/workflows/deploy.yml`) builds from `wiki/` as the content root on every push to `main`.
+
+- To change the site's appearance or configuration, edit `quartz.config.ts` or `quartz.layout.ts`
+- Dataview queries do not render on the published site — they are for local Obsidian use only
+- Pages with `draft: true` in frontmatter are excluded from the published site by Quartz's `RemoveDrafts` plugin
+- Raw source material (`raw/books/`, `raw/papers/`) is gitignored — copyrighted, local only
+
+## Obsidian Plugins
+
+Three community plugins are required. Install via Settings → Community Plugins.
+
+### Dataview
+Used for live queries in index pages and the health dashboard. Not rendered on the published site.
+
+- Index pages (`wiki/indexes/`) use `dataview` code blocks to auto-populate from frontmatter
+- The Health Dashboard (`wiki/indexes/Health Dashboard.md`, `draft: true`) tracks orphans, missing tags, and unresolved wikilinks
+- All Dataview queries use vault-absolute paths: `FROM "wiki/concepts"`, `FROM "wiki/sources"`, etc.
+- No Dataview settings need changing from defaults
+
+### Templater
+Provides consistent frontmatter scaffolding when creating new notes.
+
+- Templates live in `templates/` at the vault root
+- Three templates: `Concept Article`, `Source Summary`, `Topic Index`
+- **Manual setup required:** Settings → Templater → set Template folder to `templates`
+- Optional but recommended: enable Folder Templates and map `wiki/concepts` → `Concept Article`, `wiki/sources` → `Source Summary`, `wiki/indexes` → `Topic Index`
+
+### Tag Wrangler
+Allows bulk rename and merge of tags across the vault. No configuration needed — right-click any tag in the Tags panel.
+
+- The canonical tag vocabulary is in `wiki/indexes/Tag Vocabulary.md` (`draft: true`)
+- Before creating a new tag, check that file to avoid drift
+- Tags derive from the subject's own conceptual vocabulary — not generic descriptors like `#philosophy` or `#ontology`
+- Use Tag Wrangler to merge if duplicates appear (e.g. `#trace` and `#the-trace`)
+- 

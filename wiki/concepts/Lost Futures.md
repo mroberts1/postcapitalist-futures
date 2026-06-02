@@ -75,5 +75,9 @@ The lost future is not merely a cultural or aesthetic problem. It is the experie
 - [[Hauntology]] — the cultural form of the lost future
 - [[Capitalist Realism]] — the political-economic condition that produces the lost future
 - [[Acid Communism]] — the political project of recovering suppressed futures
+- [[Folk Politics]] — folk politics' nostalgia (return to Keynesianism, craft production) as symptomatic expression of the lost future
+- [[Left Modernity]] — Srnicek/Williams's proposed escape from the lost-futures condition: reclaiming futurity as left terrain
+- [[Hyperstition]] — hyperstitional visions of the future as the practical antidote to the cancellation of the future
 - [[Ghosts of My Life - Mark Fisher]] — primary source; 'The Slow Cancellation of the Future' and the opening essay
 - [[Acid Communism - Mark Fisher]] — theorizes the suppressed futures of the 1960s-70s
+- [[Inventing the Future - Srnicek Williams]] — proposes a strategic-political response to the lost futures condition

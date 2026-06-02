@@ -90,6 +90,11 @@ Lecture 7 of the course — on the destruction of Chilean democratic socialism �
 - [[Acid Communism]] — the counterculture as a form of libidinal acceleration Fisher wanted to recover
 - [[Capitalist Realism]] — right accelerationism as capitalist realism's extreme form
 - [[Xenofeminism]] — technofeminist accelerationism; technology as tool of liberation
+- [[Folk Politics]] — the left tendency that Srnicek/Williams's L/ACC programme is explicitly designed against
+- [[Post-Work]] — the programmatic content of left accelerationism
+- [[Full Automation]] — the foundational L/ACC demand
+- [[Hyperstition]] — CCRU concept that Srnicek/Williams repurpose for left politics
 - [[Postcapitalist Desire - Mark Fisher]] — Lectures 1 and 11; the postcapitalist horizon
 - [[K-Punk - Mark Fisher]] — CCRU-era writing; Fisher's early engagement with Land
 - [[Accelerationism - Beckett]] — Guardian longread (2017); primary source for CCRU History section
+- [[Inventing the Future - Srnicek Williams]] — the programmatic L/ACC text

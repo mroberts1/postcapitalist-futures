@@ -4,6 +4,22 @@ Chronological record of ingests, queries, and maintenance passes.
 
 ---
 
+## [2026-05-31] setup | Plugin infrastructure — Dataview, Templater, Tag Wrangler
+
+Created:
+- `templates/Concept Article.md` — Templater scaffold for new concept articles
+- `templates/Source Summary.md` — Templater scaffold for new source summaries
+- `templates/Topic Index.md` — Templater scaffold for new topic index pages
+- `wiki/indexes/Health Dashboard.md` — Dataview health checks: orphans, missing tags/URL/tier, recently modified, tag inventory (draft: true)
+- `wiki/indexes/Tag Vocabulary.md` — canonical tag list with scope definitions and source_type/tier values (draft: true)
+
+Updated:
+- `wiki/indexes/Master Index.md` — added Dataview tables for concepts and sources; manual lists retained for Quartz published site
+- `wiki/indexes/Hauntology.md` — added Dataview queries for concepts and sources by tag
+
+Manual setup still required in Obsidian:
+- Templater: Settings → Templater → set Template folder to `templates`; optionally map wiki/concepts → Concept Article, wiki/sources → Source Summary, wiki/indexes → Topic Index
+
 ## [2026-05-31] ingest | Accelerationism: how a fringe philosophy predicted the future we live in — Andy Beckett
 
 Source: https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in
@@ -62,3 +78,26 @@ Created:
 - `wiki/indexes/Master Index.md`
 
 Tag: `#hauntology`. User requested emphasis on the eerie sections of the book.
+
+## [2026-06-02] ingest | Inventing the Future: Postcapitalism and a World Without Work — Nick Srnicek & Alex Williams
+
+Source: `raw/books/Inventing the Future_ Postcapit - Nick Srnicek/` (Verso, 2015)
+
+Created:
+- `wiki/sources/Inventing the Future - Srnicek Williams.md` — full source summary
+- `wiki/concepts/Folk Politics.md` — central diagnostic concept; three axes of immediacy
+- `wiki/concepts/Post-Work.md` — the political platform (automation, shorter week, UBI, work ethic)
+- `wiki/concepts/Full Automation.md` — first demand; FALC
+- `wiki/concepts/Universal Basic Income.md` — third demand; labour power transformation
+- `wiki/concepts/Counter-Hegemony.md` — strategic orientation; Gramsci/Laclau/Mouffe
+- `wiki/concepts/Left Modernity.md` — philosophical grounding; progress, universalism, emancipation
+- `wiki/concepts/Synthetic Freedom.md` — constructed freedom of capacities vs. negative freedom
+- `wiki/concepts/Hyperstition.md` — CCRU concept repurposed for left politics
+- `wiki/indexes/Post-Work.md` — new topic index
+
+Updated:
+- `wiki/concepts/Accelerationism.md` — added links to Folk Politics, Post-Work, Full Automation, Hyperstition, Inventing the Future
+- `wiki/concepts/Lost Futures.md` — added links to Folk Politics, Left Modernity, Hyperstition, Inventing the Future
+- `wiki/indexes/Master Index.md` — added Post-Work topic index, all new concepts, new source; reorganised concepts into clusters
+
+Tags: `#post-work`, `#folk-politics`, `#accelerationism`, `#left-politics`
