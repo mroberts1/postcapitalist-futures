@@ -43,7 +43,7 @@ jobs:
           cp quartz.layout.ts quartz-build/quartz.layout.ts
 
       - name: Copy wiki content
-        run: cp -r wiki quartz-build/content
+        run: rm -rf quartz-build/content && cp -r wiki quartz-build/content
 
       - name: Build
         run: npx quartz build
