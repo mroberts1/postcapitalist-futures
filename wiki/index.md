@@ -1,9 +1,7 @@
 ---
-title: acid communism
+title: postcapitalist futures
 tags: []
 ---
-
-*a wiki for mark fisher*
 
 A knowledge base on the work of Mark Fisher (1968–2017) — cultural theorist, blogger, and author of *Capitalist Realism*, *Ghosts of My Life*, and the unfinished *Acid Communism*.
 
